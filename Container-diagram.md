@@ -1,0 +1,1 @@
+![Container diagram](images/OrdelityInsightsContainer.png)
